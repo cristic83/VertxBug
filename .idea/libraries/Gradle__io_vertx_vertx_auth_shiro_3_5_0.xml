@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: io.vertx:vertx-auth-shiro:3.5.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.vertx/vertx-auth-shiro/3.5.0/e73953ee75c153dd6dec53e45f96fcfeeeaa2775/vertx-auth-shiro-3.5.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.vertx/vertx-auth-shiro/3.5.0/b7ca56e9d132eb092b5e2e1ffac573a8ae574439/vertx-auth-shiro-3.5.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
